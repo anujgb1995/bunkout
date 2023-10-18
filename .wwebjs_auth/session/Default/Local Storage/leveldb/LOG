@@ -1,0 +1,6 @@
+2023/10/17-23:06:14.969 6703 Reusing MANIFEST /Users/anujbhadauria/Desktop/Project/Node/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2023/10/17-23:06:14.971 6703 Recovering log #26
+2023/10/17-23:06:14.971 6703 Reusing old log /Users/anujbhadauria/Desktop/Project/Node/.wwebjs_auth/session/Default/Local Storage/leveldb/000026.log 
+2023/10/18-22:32:35.721 8e4f Level-0 table #30: started
+2023/10/18-22:32:35.746 8e4f Level-0 table #30: 11672 bytes OK
+2023/10/18-22:32:35.770 8e4f Delete type=0 #26

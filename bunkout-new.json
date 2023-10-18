@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bunkout-305321",
+  "private_key_id": "d9f77dfad71f05acc6fa01da142b57d2b6bc2a27",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC746Z8rlDUxDh8\nOsVa+4bfEZnl9k3qk2QRhrGicW24JNyAM6+gBkgGCx65tiUp46HadJ878iYuB26W\nbVwFjtgX/ESm/D1wQcRX/UgL6+WSVYNqNal0gF7WfS/8dQsdQVm1sbtxrgdmvohb\nfReWbnRVrPtDgstuIi6/vxo9k8qmXIWQvFgwKoh+tZH6OUziYOzVFjx7tNDriBWe\n5MVsx50am6We7kNvAXFVnj3hfwEE4x5JmMsSWAImwBKAf7hcYwE3Nc6ZhpSNkd4r\nwzqSNHj8u9lH9OuYYz/DjKBXjR1MAsFoH8fpcT1lLJY+K6V/DF2E8avuQC6emnjL\nrAfqDJnzAgMBAAECggEAKMlFwkoK1O0Vf+44GkSAphrJiDB8AIBnWCCfne42jaM+\n1Huj076ZUuqGDHVcQugdofDwAhDSNeq6GGB7+d7kzOwfsQoPgjdcmmcqhR/7sVTr\n1pn4g4g8Th5V1N1JgNvHUBhZYteO1sBklEum26p1iYWn86NIastzz376AMT82Djc\n4RENK5BtGNLTcZSdyETu36ZS7wBBPeco0PnfOvsOvr4oQ38stGemqji7qH+qoRXl\n0ccTJrqb42dP88gqmqqpJGwAVsmf2vlk0/+3aEWMTtRAU3eaXLfB0B1SMNQk5NDG\nfYDO5ZITSugd3JzmiRYBZGHniZ/JfoShnLicd05oYQKBgQDuJwGso0BWFAq0cpac\nRZkwtxfCiCMsEJzgn0MrR/q2SdN3l0gTtzq0CM0dYtwSwC8uAWKUziokqZydZ1Hw\n0spIrmcE/7ilX0nC536cShDSheMjtpVneEnJOFwwJr5+cYAgg77XE1A6euaxrs/K\nsLLpo/xqS9p0XaEcJDhuwuaKUwKBgQDJ+FZotRzuBhQ+76uOAHv+OAK7CDJCYH6P\njctKt+IKjCJlQvFD42y/TLzeACDvfxhHM6ekY0KXxMDb0ZpsfzMuShyubsn9rHSJ\n6IfkirhUP8p/7lo4Q3BN7Fk8SFaHllf+aflf7Z8TLrws5zHVrYbMpedI93YAZCa3\nBoyGwUP94QKBgQDnEtfwD1KscrPUVF7IcEtsVirqqLcf2VquJDnDNAsSdl2F6zaX\nUrDV4LhMrBCG7QyaIePqKIQBoMUCgS6jcZOuo/H3irw5UVS7lWxm7wKVki1LCKy8\ngZ1ubY4ddmpdO3mrkslH3Eh7Babzfn/F1l8yjdert7/WKsbZDFfpOJkCWwKBgQCS\nk0HSl645J/xFeJaeZceWxXtl1Rr0hScUc6lXvn+ze+PybVS/Givv4Xcn/hvo8+ng\nsqI1cTwA/O+iGEnj96RjMbIC/bBmA2RIOZN1zx7bNbh2g7rCHl9Ajghs8Wqq1/dg\nUfSDI+ZQe5hhViAanOa5WqWxlLX0rrpSFdSib1wywQKBgQDNGMuTqZWDqeTbY0wr\noNcBjtfjPvjwJUOwghWKnYa+VvwzAxDxFhajGZyPC48RLe+wIRI6eHnC9JgLskKk\n6/WeykLSgiaREInR+diQnvX8VbgpPh/BmTrAcGbc2MWaeBKCHUpfWsbDJ+jyIbbW\nPOe5ihSCHWX1gWrDo7FUI5qIoQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bunkoutgooglesheet@bunkout-305321.iam.gserviceaccount.com",
+  "client_id": "106550561927911205564",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bunkoutgooglesheet%40bunkout-305321.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

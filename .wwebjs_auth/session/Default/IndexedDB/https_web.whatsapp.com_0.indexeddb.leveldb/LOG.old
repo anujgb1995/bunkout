@@ -1,0 +1,48 @@
+2023/10/17-22:56:50.517 7303 Reusing MANIFEST /Users/anujbhadauria/Desktop/Project/Node/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-004767
+2023/10/17-22:56:50.518 7303 Recovering log #4863
+2023/10/17-22:56:50.531 7303 Reusing old log /Users/anujbhadauria/Desktop/Project/Node/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/004863.log 
+2023/10/17-22:57:08.147 1ff03 Compacting 1@1 + 4@2 files
+2023/10/17-22:57:08.446 1ff03 Generated table #4879@1: 101706 keys, 2251198 bytes
+2023/10/17-22:57:08.944 1ff03 Generated table #4880@1: 102359 keys, 2253279 bytes
+2023/10/17-22:57:09.362 1ff03 Generated table #4881@1: 83064 keys, 1905525 bytes
+2023/10/17-22:57:09.362 1ff03 Compacted 1@1 + 4@2 files => 6410002 bytes
+2023/10/17-22:57:09.396 1ff03 compacted to: files[ 0 0 14 0 0 0 0 ]
+2023/10/17-23:02:07.580 1fc07 Level-0 table #4883: started
+2023/10/17-23:02:07.633 1fc07 Level-0 table #4883: 1302376 bytes OK
+2023/10/17-23:02:07.671 1fc07 Delete type=2 #4859
+2023/10/17-23:02:07.687 1fc07 Delete type=2 #4858
+2023/10/17-23:02:07.687 1fc07 Delete type=2 #4866
+2023/10/17-23:02:07.687 1fc07 Delete type=2 #4860
+2023/10/17-23:02:07.687 1fc07 Delete type=2 #4861
+2023/10/17-23:02:07.688 1fc07 Delete type=0 #4863
+2023/10/17-23:02:10.030 15acf Compacting 1@0 + 0@1 files
+2023/10/17-23:02:10.098 15acf Generated table #4884@0: 19647 keys, 525702 bytes
+2023/10/17-23:02:10.115 15acf Generated table #4885@0: 667 keys, 17061 bytes
+2023/10/17-23:02:10.117 15acf Compacted 1@0 + 0@1 files => 542763 bytes
+2023/10/17-23:02:10.143 15acf compacted to: files[ 0 2 14 0 0 0 0 ]
+2023/10/17-23:02:10.146 15acf Delete type=2 #4883
+2023/10/17-23:02:18.320 15acf Compacting 1@1 + 10@2 files
+2023/10/17-23:02:18.453 15acf Generated table #4886@1: 87759 keys, 2237414 bytes
+2023/10/17-23:02:18.605 15acf Generated table #4887@1: 100516 keys, 2252066 bytes
+2023/10/17-23:02:18.756 15acf Generated table #4888@1: 13049 keys, 2801727 bytes
+2023/10/17-23:02:18.891 15acf Generated table #4889@1: 41092 keys, 2201613 bytes
+2023/10/17-23:02:19.021 15acf Generated table #4890@1: 6542 keys, 2150122 bytes
+2023/10/17-23:02:19.157 15acf Generated table #4891@1: 2282 keys, 2149087 bytes
+2023/10/17-23:02:19.287 15acf Generated table #4892@1: 6510 keys, 2159497 bytes
+2023/10/17-23:02:19.459 15acf Generated table #4893@1: 26893 keys, 2269742 bytes
+2023/10/17-23:02:19.585 15acf Generated table #4894@1: 27757 keys, 2222037 bytes
+2023/10/17-23:02:19.663 15acf Generated table #4895@1: 16446 keys, 2139574 bytes
+2023/10/17-23:02:19.690 15acf Generated table #4896@1: 9572 keys, 201746 bytes
+2023/10/17-23:02:19.692 15acf Compacted 1@1 + 10@2 files => 22784625 bytes
+2023/10/17-23:02:19.719 15acf compacted to: files[ 0 1 15 0 0 0 0 ]
+2023/10/17-23:02:19.724 15acf Delete type=2 #4884
+2023/10/17-23:02:19.724 15acf Delete type=2 #4869
+2023/10/17-23:02:19.724 15acf Delete type=2 #4868
+2023/10/17-23:02:19.724 15acf Delete type=2 #4871
+2023/10/17-23:02:19.724 15acf Delete type=2 #4870
+2023/10/17-23:02:19.725 15acf Delete type=2 #4872
+2023/10/17-23:02:19.725 15acf Delete type=2 #4867
+2023/10/17-23:02:19.725 15acf Delete type=2 #4873
+2023/10/17-23:02:19.725 15acf Delete type=2 #4876
+2023/10/17-23:02:19.725 15acf Delete type=2 #4874
+2023/10/17-23:02:19.725 15acf Delete type=2 #4875
